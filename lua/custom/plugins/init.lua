@@ -2,4 +2,10 @@
 --  I promise not to create any merge conflicts in this directory :)
 --
 -- See the kickstart.nvim README for more information
+
+--[[
+winget install -e 
+  --id=JesseDuffield.lazygit
+  --id=BurntSushi.ripgrep.MSVC
+--]]
 return {}
